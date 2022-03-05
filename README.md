@@ -4,7 +4,6 @@
 
 
 ## Clone the Github Repo
-
 ```
 git clone https://github.com/aparna266/Slider.git
 ```
@@ -13,6 +12,7 @@ git clone https://github.com/aparna266/Slider.git
 ```
 cd MultiPageForm
 ```
+
 ## install packages
 
 ```
@@ -21,6 +21,7 @@ This will install your node modules and other dependencies.
 ```
 
 ### install react-slick
+
 ```
 npm install react-slick --save Or yarn add react-slick
  
@@ -28,6 +29,7 @@ React slick is a carousel component built with React. It is a react port of  sli
 ```
 
 #### include css
+
  ```
 After you are done installing through yarn or npm, now you will have to include CSS in your project.
 
@@ -37,6 +39,7 @@ Note: But be aware slick-carousel has a peer-dependancy on jQuery which you, or 
 ```
 
 ##### Run npm
+
 ```
 npm start
 
